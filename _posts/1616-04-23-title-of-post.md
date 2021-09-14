@@ -1,14 +1,13 @@
 ---
 layout: post
-title: This is the title of the first post
+title: Shakespeare's Sonnets
 postHero: /images/large/slide1.jpg
 author: William Shakespeare
 authorTwitter: https://twitter.com/shakespeare?lang=en
 gravatar: /images/shakespeare.jpg
 postFooter: Additional information, and maybe a <a href="#">Link or two</a>
+excerpt_separator: <!--more-->
 ---
-
-Shakespeare's Sonnets
 
 I
 
@@ -16,6 +15,7 @@ From fairest creatures we desire increase,
 That thereby beauty's Rose might never die,
 But as the riper should by time decease,
 His tender heir might bear his memory:
+<!--more-->
 But thou contracted to thine own bright eyes,
 Feed'st thy light's flame with self-substantial fuel,
 Making a famine where abundance lies,
